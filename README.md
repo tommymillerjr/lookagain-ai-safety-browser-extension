@@ -69,3 +69,9 @@ It is especially relevant to roles involving:
 - Trust & safety policy
 - Abuse detection workflows
 - User-facing safety interventions
+
+## Public Demo Code
+
+This repository includes a small sanitized detection-logic demo in [`src/public-demo/risk-scoring-demo.js`](src/public-demo/risk-scoring-demo.js).
+
+It is not the full extension source code. It is a curated portfolio slice that demonstrates the prototype's scoring style, explainable reasons, and privacy-first approach without exposing private implementation details, tester information, secrets, or release artifacts.
